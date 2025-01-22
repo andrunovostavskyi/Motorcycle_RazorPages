@@ -1,0 +1,18 @@
+﻿@page
+@model Motorcycle.Pages.MainPages.Cat.CategoryModel
+@{
+
+}
+
+<h1>Category</h1>
+
+<div class="category-container">
+    @foreach (var item in Model.Categories)
+    {
+        <div class="category">
+            <a href="CategoryMotorcyclies?id=@item.Id">
+                <div class="item-name">@item.Name</div>
+            </a>
+        </div>
+    }
+</div>

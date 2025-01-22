@@ -1,0 +1,16 @@
+﻿@page
+@model Motorcycle.Pages.MainPages.BrandMotorcyclesModel
+@{
+}
+
+<h1>Brand Motorcycles</h1>
+
+<div class="motorcycle-container">
+    @foreach (var item in Model.MotorcyclesBrand)
+    {
+        <div class="motorcycle">
+            <img src="@item.Image" alt="Motorcycle Image" class="motorcycle-img" />
+            <div class="item-name">@item.Model</div>
+        </div>
+    }
+</div>

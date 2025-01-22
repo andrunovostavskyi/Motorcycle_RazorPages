@@ -1,0 +1,17 @@
+﻿@page
+@model Motorcycle.Pages.MainPages.BrendModel
+@{
+}
+
+<h1>Brands</h1>
+
+<div class="brend-container">
+    @foreach (var item in Model.Brends)
+    {
+        <div class="brend">
+            <a href="BrandMotorcycles?id=@item.Id">
+                <img src="@item.Image" alt="Brend Image" class="brend-img" />
+            </a>
+        </div>
+    }
+</div>

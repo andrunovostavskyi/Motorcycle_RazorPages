@@ -1,0 +1,62 @@
+﻿@page
+@model Motorcycle.Pages.MainPages.RESTBrendModel
+@{
+    ViewData["Title"] = "RESTBrends";
+}
+
+<h1 class="page-title">RESTBrends</h1>
+
+<div class="form-container">
+    <form method="post" asp-page-handler="Add">
+        <input type="text" name="name" placeholder="Enter brand name" required />
+        <input type="text" name="history" placeholder="Enter history" />
+        <input type="text" name="image" placeholder="Enter image source" required />
+        <input type="text" name="motorcyclies" placeholder="Enter Motorcycle IDs (comma-separated)" />
+        <button type="submit" class="add-button">Add</button>
+    </form>
+
+    <form method="post" asp-page-handler="Delete">
+        <input type="number" name="id" required placeholder="Enter Brand ID" />
+        <button type="submit" class="delete-button">Delete</button>
+    </form>
+
+    <form method="post" asp-page-handler="Update">
+        <input type="number" name="id" placeholder="Enter ID to Update" required />
+        <input type="text" name="name" placeholder="Name" />
+        <input type="text" name="history" placeholder="History" />
+        <input type="text" name="motorcyclies" placeholder="Enter Motorcycle IDs (comma-separated)" />
+        <input type="text" name="image" placeholder="Enter new image source" />
+        <button type="submit" class="update-button">Update</button>
+    </form>
+</div>
+
+<table class="table styled-table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Model</th>
+            <th>Motorcycles</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Brends)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    @foreach (var moto in item.Motorcyclies)
+                    {
+                        <span>@moto.Model</span>
+
+                        <br />
+                    }
+                </td>
+                <td>
+                    <img src="@item.Image" alt="Motorcycle Image" class="motorcycle-image" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

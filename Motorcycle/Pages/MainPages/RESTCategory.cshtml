@@ -1,0 +1,56 @@
+﻿@page
+@model Motorcycle.Pages.MainPages.RESTCategoryModel
+@{
+    ViewData["Title"] = "RESTCategories";
+}
+
+<h1 class="page-title">RESTCategories</h1>
+
+<div class="form-container">
+    <form method="post" asp-page-handler="Add">
+        <input type="text" name="name" placeholder="Enter category name" required />
+        <input type="text" name="description" placeholder="Enter description" />
+        <input type="text" name="motorcyclies" placeholder="Enter Motorcycle IDs (comma-separated)" />
+        <button type="submit" class="add-button">Add</button>
+    </form>
+
+    <form method="post" asp-page-handler="Delete">
+        <input type="number" name="id" placeholder="Enter ID to Delete" required />
+        <button type="submit" class="delete-button">Delete</button>
+    </form>
+
+    <form method="post" asp-page-handler="Update">
+        <input type="number" name="id" placeholder="Enter ID to Update" required />
+        <input type="text" name="name" placeholder="Name" />
+        <input type="text" name="description" placeholder="Description" />
+        <input type="text" name="motorcyclies" placeholder="Enter Motorcycle IDs (comma-separated)" />
+        <button type="submit" class="update-button">Update</button>
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Motorcyclies</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Categories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    @foreach (var moto in item.Motorcyclies)
+                    {
+                        <span>@moto.Model</span>
+
+                        <br />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

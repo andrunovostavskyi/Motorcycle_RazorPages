@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\summer\\Motorcycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\categorymotorcyclies.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\categorymotorcyclies.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\categorymotorcyclies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\categorymotorcyclies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\brandmotorcycles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\brandmotorcycles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\brand.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\brand.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\brandmotorcycles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\brandmotorcycles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\data\\motocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\data\\motocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\addroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\addroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\addroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\addroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\motorcycle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\motorcycle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\restbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\restbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\restcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\restcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\restmoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\restmoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\mainpages\\restbrand.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\mainpages\\restbrand.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\model\\brend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\model\\brend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\pages\\authpages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\pages\\authpages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|d:\\c#\\summer\\motorcycle\\motorcycle\\model\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C02AC-66C7-44DF-96ED-A7E1A627B3C6}|Motorcycle\\Motorcycle.csproj|solutionrelative:motorcycle\\model\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryMotorcyclies.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:33:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Brand.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\Brand.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Brand.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\Brand.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:53:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Brand.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\Brand.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Brand.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\Brand.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:41:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:04:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Motorcycle\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Motorcycle\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAAJIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T15:01:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryMotorcyclies.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\CategoryMotorcyclies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:37:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandMotorcycles.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:48:04.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Program.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Program.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Program.cs",
+              "RelativeToolTip": "Motorcycle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:12:05.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Category.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\Category.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Category.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:37:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Category.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\Category.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Category.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\Category.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:42:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandMotorcycles.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\BrandMotorcycles.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:10:13.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MotoContext.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Data\\MotoContext.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Data\\MotoContext.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Data\\MotoContext.cs",
+              "RelativeToolTip": "Motorcycle\\Data\\MotoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:34:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\GlobalUsing.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\GlobalUsing.cs",
+              "RelativeToolTip": "Motorcycle\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:12:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Register.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Register.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Register.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:15:19.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Login.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Login.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Login.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:09:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Logout.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Logout.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:55:18.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddRoles.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:09:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Login.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Login.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Login.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:09:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRoles.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\AddRoles.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:10:21.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:49:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Motorcycle.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Motorcycle.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\Motorcycle.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\Motorcycle.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\Motorcycle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:33:07.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RESTCategory.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTCategory.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\RESTCategory.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTCategory.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\RESTCategory.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:02:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RESTMoto.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTMoto.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\RESTMoto.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTMoto.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\RESTMoto.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T15:05:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RESTBrand.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:34:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RESTBrand.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\MainPages\\RESTBrand.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:43:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Motorcycle\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:30:34.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Logout.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:09:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Pages\\AuthPages\\Register.cshtml.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Pages\\AuthPages\\Register.cshtml.cs",
+              "RelativeToolTip": "Motorcycle\\Pages\\AuthPages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:11:44.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Moto.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Model\\Moto.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Moto.cs",
+              "RelativeToolTip": "Motorcycle\\Model\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:06:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Model\\Category.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Category.cs",
+              "RelativeToolTip": "Motorcycle\\Model\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:06:18.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Brend.cs",
+              "DocumentMoniker": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Brend.cs",
+              "RelativeDocumentMoniker": "Motorcycle\\Model\\Brend.cs",
+              "ToolTip": "D:\\C#\\summer\\Motorcycle\\Motorcycle\\Model\\Brend.cs",
+              "RelativeToolTip": "Motorcycle\\Model\\Brend.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:06:17.27Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 874,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

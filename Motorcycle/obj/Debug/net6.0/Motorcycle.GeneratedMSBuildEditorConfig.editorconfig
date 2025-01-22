@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Motorcycle
+build_property.RootNamespace = Motorcycle
+build_property.ProjectDir = D:\C#\summer\Motorcycle_RazorPages\Motorcycle\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C#\summer\Motorcycle_RazorPages\Motorcycle
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/AuthPages/AddRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFBhZ2VzXEFkZFJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/AuthPages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFBhZ2VzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/AuthPages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFBhZ2VzXExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/AuthPages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFBhZ2VzXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXEJyYW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/BrandMotorcycles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXEJyYW5kTW90b3JjeWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/CategoryMotorcyclies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXENhdGVnb3J5TW90b3JjeWNsaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/Motorcycle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXE1vdG9yY3ljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/RESTBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXFJFU1RCcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/RESTCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXFJFU1RDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/MainPages/RESTMoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VzXFJFU1RNb3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/summer/Motorcycle_RazorPages/Motorcycle/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6vzjog3vo

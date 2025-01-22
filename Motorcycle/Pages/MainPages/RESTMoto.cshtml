@@ -1,0 +1,103 @@
+﻿@page
+@using Motorcycle.Model
+@model Motorcycle.Pages.MainPages.AllMotoModel
+@{
+    ViewData["Title"] = "List of Motorcycle";
+}
+
+<h1 class="page-title">RESTMotorcycle</h1>
+
+<div class="form-container">
+    <!-- Форма для додавання нового мотоцикла -->
+    <form method="post" asp-page-handler="Add">
+        <input type="text" name="model" placeholder="Enter model name" required />
+        <input type="text" name="description" placeholder="Enter some info" />
+        <input type="text" name="image" placeholder="Enter image source" required />
+        <input type="number" name="price" placeholder="Enter price" required />
+        <select name="brendId" required>
+            <option value="">Select a brand</option>
+            @foreach (var brand in Model.Brands)
+            {
+                <option value="@brand.Id">@brand.Name</option>
+            }
+        </select>
+        <select name="categoryId" required>
+            <option value="">Select a moto category</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+        <button class="add-button" type="submit">Add</button>
+    </form>
+</div>
+
+<div class="form-container">
+    <!-- Форма для видалення мотоцикла -->
+    <form method="post" asp-page-handler="Delete">
+        <input type="number" name="id" placeholder="Enter Id to Delete" required />
+        <button type="submit" class="delete-button">Delete</button>
+    </form>
+</div>
+
+<div class="form-container">
+    <!-- Форма для оновлення мотоцикла -->
+    <form method="post" asp-page-handler="Update">
+        <input type="number" name="id" placeholder="Enter id to Update" required />
+        <input type="text" name="model" placeholder="Enter new model name" />
+        <input type="text" name="description" placeholder="Update info" />
+        <input type="number" name="price" placeholder="Enter new price" />
+        <input type="text" name="image" placeholder="Enter new image source" />
+        <select name="brendId">
+            <option value="">Select a brand</option>
+            @foreach (var brand in Model.Brands)
+            {
+                <option value="@brand.Id">@brand.Name</option>
+            }
+        </select>
+        <select name="categoryId">
+            <option value="">Select a moto category</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+        <button type="submit" class="update-button">Update</button>
+    </form>
+</div>
+
+<!-- Таблиця з даними мотоциклів -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Model</th>
+            <th>Price</th>
+            <th>Brand</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Motorcycles)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Model</td>
+                <td>@item.Price</td>
+                <td>
+                    @foreach (var motoBrand in Model.Brands)
+                    {
+                        if (item.BrendId == motoBrand.Id)
+                        {
+                            @motoBrand.Name
+                            break;
+                        }
+                    }
+                </td>
+                <td>
+                    <img src="@item.Image" alt="Motorcycle Image" class="motorcycle-image" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
